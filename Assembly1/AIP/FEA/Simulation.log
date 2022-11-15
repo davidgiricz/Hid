@@ -1,0 +1,66 @@
+﻿Study Static Analysis:1 started: 2022. 11. 15., 13:50:25
+Number of configurations: 1
+Default mesh: 179406 elements, 301548 nodes
+Mesh at contact 94 is too coarse
+Mesh at contact 95 is too coarse
+Mesh at contact 150 is too coarse
+Mesh at contact 153 is too coarse
+Mesh at contact 175 is too coarse
+Mesh at contact 182 is too coarse
+Mesh at contact 184 is too coarse
+Mesh at contact 185 is too coarse
+Mesh at contact 187 is too coarse
+Mesh at contact 196 is too coarse
+Mesh at contact 198 is too coarse
+Mesh at contact 252 is too coarse
+Mesh at contact 257 is too coarse
+Mesh at contact 286 is too coarse
+Study        Worst Jacobian ratio :  1  on element 1 finished: 2022. 11. 15., 13:52:41
+Total time 0:02:16
+
+Study Static Analysis:1 started: 2022. 11. 15., 13:58:19
+Number of configurations: 1
+Default mesh: 179406 elements, 301548 nodes
+Mesh at contact 94 is too coarse
+Mesh at contact 95 is too coarse
+Mesh at contact 150 is too coarse
+Mesh at contact 153 is too coarse
+Mesh at contact 175 is too coarse
+Mesh at contact 182 is too coarse
+Mesh at contact 184 is too coarse
+Mesh at contact 185 is too coarse
+Mesh at contact 187 is too coarse
+Mesh at contact 196 is too coarse
+Mesh at contact 198 is too coarse
+Mesh at contact 252 is too coarse
+Mesh at contact 257 is too coarse
+Mesh at contact 286 is too coarse
+Solution time 143s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2022. 11. 15., 14:01:03
+Total time 0:02:44
+
+Study Static Analysis:1 started: 2022. 11. 15., 14:20:19
+Number of configurations: 1
+Default mesh: 179720 elements, 302060 nodes
+Mesh at contact 94 is too coarse
+Mesh at contact 95 is too coarse
+Mesh at contact 150 is too coarse
+Mesh at contact 153 is too coarse
+Mesh at contact 175 is too coarse
+Mesh at contact 182 is too coarse
+Mesh at contact 184 is too coarse
+Mesh at contact 185 is too coarse
+Mesh at contact 187 is too coarse
+Mesh at contact 196 is too coarse
+Mesh at contact 198 is too coarse
+Mesh at contact 252 is too coarse
+Mesh at contact 257 is too coarse
+Mesh at contact 286 is too coarse
+Solution time 158s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 2022. 11. 15., 14:24:54
+Total time 0:04:34
+
