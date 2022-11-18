@@ -17,3 +17,5 @@ K= 91,8 mm
 K/2= 45,9
 
 szár= 273,901 mm
+
+ORIGOTOL LE: 254,370 mm
