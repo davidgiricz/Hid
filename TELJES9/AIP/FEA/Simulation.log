@@ -1,115 +1,17 @@
-﻿Study Static Analysis:1 started: 2022. 11. 19., 23:32:51
+﻿Study Static Analysis:2 started: 2022. 11. 23., 15:06:09
 Number of configurations: 1
-Default mesh: 176411 elements, 302291 nodes
-Mesh at contact 99 is too coarse
-Mesh at contact 100 is too coarse
-Mesh at contact 101 is too coarse
-Mesh at contact 102 is too coarse
-Mesh at contact 218 is too coarse
-Mesh at contact 224 is too coarse
-Mesh at contact 225 is too coarse
-Mesh at contact 238 is too coarse
-Mesh at contact 239 is too coarse
-Mesh at contact 317 is too coarse
-Solution time 213s
+Default mesh: 192669 elements, 330275 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 7 is too coarse
+Mesh at contact 8 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 161 is too coarse
+Mesh at contact 174 is too coarse
+Mesh at contact 284 is too coarse
+Mesh at contact 334 is too coarse
+Solution time 130s
 Convergence rate: 50%
 Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 2022. 11. 19., 23:38:33
-Total time 0:05:42
-
-Study Static Analysis:1 started: 2022. 11. 19., 23:39:49
-Number of configurations: 1
-Default mesh: 176411 elements, 302291 nodes
-Mesh at contact 99 is too coarse
-Mesh at contact 100 is too coarse
-Mesh at contact 101 is too coarse
-Mesh at contact 102 is too coarse
-Mesh at contact 218 is too coarse
-Mesh at contact 224 is too coarse
-Mesh at contact 225 is too coarse
-Mesh at contact 238 is too coarse
-Mesh at contact 239 is too coarse
-Mesh at contact 317 is too coarse
-Solution time 211s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 2022. 11. 19., 23:43:38
-Total time 0:03:49
-
-Study Static Analysis:1 started: 2022. 11. 19., 23:46:57
-Number of configurations: 1
-Default mesh: 176411 elements, 302291 nodes
-Mesh at contact 99 is too coarse
-Mesh at contact 100 is too coarse
-Mesh at contact 101 is too coarse
-Mesh at contact 102 is too coarse
-Mesh at contact 218 is too coarse
-Mesh at contact 224 is too coarse
-Mesh at contact 225 is too coarse
-Mesh at contact 238 is too coarse
-Mesh at contact 239 is too coarse
-Mesh at contact 317 is too coarse
-The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
-Solution time 209s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 2022. 11. 19., 23:50:44
-Total time 0:03:47
-
-Study Static Analysis:1 started: 2022. 11. 19., 23:52:12
-Number of configurations: 1
-Default mesh: 176411 elements, 302291 nodes
-Mesh at contact 99 is too coarse
-Mesh at contact 100 is too coarse
-Mesh at contact 101 is too coarse
-Mesh at contact 102 is too coarse
-Mesh at contact 218 is too coarse
-Mesh at contact 224 is too coarse
-Mesh at contact 225 is too coarse
-Mesh at contact 238 is too coarse
-Mesh at contact 239 is too coarse
-Mesh at contact 317 is too coarse
-Solution time 212s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 2022. 11. 19., 23:56:01
-Total time 0:03:49
-
-Study Static Analysis:1 started: 2022. 11. 20., 0:05:06
-Number of configurations: 1
-Default mesh: 176411 elements, 302291 nodes
-Mesh at contact 99 is too coarse
-Mesh at contact 100 is too coarse
-Mesh at contact 101 is too coarse
-Mesh at contact 102 is too coarse
-Mesh at contact 218 is too coarse
-Mesh at contact 224 is too coarse
-Mesh at contact 225 is too coarse
-Mesh at contact 238 is too coarse
-Mesh at contact 239 is too coarse
-Mesh at contact 317 is too coarse
-Solution time 211s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 2022. 11. 20., 0:08:55
-Total time 0:03:49
-
-Study Static Analysis:1 started: 2022. 11. 20., 0:10:28
-Number of configurations: 1
-Default mesh: 176411 elements, 302291 nodes
-Mesh at contact 99 is too coarse
-Mesh at contact 100 is too coarse
-Mesh at contact 101 is too coarse
-Mesh at contact 102 is too coarse
-Mesh at contact 218 is too coarse
-Mesh at contact 224 is too coarse
-Mesh at contact 225 is too coarse
-Mesh at contact 238 is too coarse
-Mesh at contact 239 is too coarse
-Mesh at contact 317 is too coarse
-Solution time 223s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 2022. 11. 20., 0:14:29
-Total time 0:04:01
+Study        Worst Jacobian ratio :  1  on element 1 finished: 2022. 11. 23., 15:10:12
+Total time 0:04:03
 
